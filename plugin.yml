@@ -1,0 +1,6 @@
+name: Bomz
+main: bomz.main
+version: 1337
+commands:
+  loc:
+api-version: 1.16
